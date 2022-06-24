@@ -1,0 +1,9 @@
+{
+    "C_Cpp.dimInactiveRegions": false,
+    "files.associations": {
+        "bitset.h": "c",
+        "stdio.h": "c",
+        "ppm.h": "c",
+        "eratosthenes.h": "c"
+    }
+}
