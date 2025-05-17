@@ -2,7 +2,7 @@
 [![Build](https://img.shields.io/badge/Build-Makefile-brightgreen.svg?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/software/make/)
 [![License](https://img.shields.io/badge/License-Public_Domain-lightgrey.svg?style=for-the-badge&logo=unlicense&logoColor=black)](https://unlicense.org/)
 [![Status](https://img.shields.io/badge/Status-Archived-orange.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Software_archiving)
-[![Course](https://img.shields.io/badge/Course-IJC_@_FIT-informational.svg?style=for-the-badge)]([https://www.fit.vut.cz/](https://www.fit.vut.cz/study/course/280992/.en))
+[![Course](https://img.shields.io/badge/Course-IJC_@_FIT-informational.svg?style=for-the-badge)](https://www.fit.vut.cz/study/course/280992/.en)
 
 This repository contains projects developed for the IJC (C Language) course at FIT (Faculty of Information Technology). These projects cover fundamental C programming concepts, data structures, and algorithms.
 
